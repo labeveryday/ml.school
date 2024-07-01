@@ -135,3 +135,8 @@ _proc/
 mlruns/
 mlartifacts/
 **/metaflow/workspace/
+
+.obsidian
+./obsidian/
+./obsidian
+./obsidian/*
