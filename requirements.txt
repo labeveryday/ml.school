@@ -5,7 +5,7 @@ comet-ml
 scikit-learn
 python-dotenv
 ipytest
-tensorflow==2.14
+tensorflow
 sagemaker
 sagemaker[local]
 ruff
